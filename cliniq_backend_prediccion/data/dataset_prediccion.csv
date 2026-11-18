@@ -1,0 +1,301 @@
+edad,genero,grupo_sanguineo,peso_kg,altura_cm,sintomas,diagnosticos,medicamentos,enfermedades
+43,F,O+,64.4,159,Lesiones con descamación:3|Enrojecimiento de la piel:1|Dolor de tobillo:1,Psoriasis,,psoriasis
+31,M,A+,87.7,171,Picazón:3|Piel seca:2|Enrojecimiento de la piel:3|Tos:2|Expectoración:1,Eccema,Loratadina|Paracetamol,eccema
+29,F,A-,78.1,165,Dolor de muñeca:2|Dolor de antebrazo:1|Entumecimiento de mano:2|Limitación de movimiento:2|Irritabilidad:2,,Diclofenaco|Paracetamol,mano_muneca
+12,M,O+,65.0,159,Fatiga persistente:2|Niebla mental:2|Dolor muscular generalizado:2,Antecedente de COVID-19,,post_covid
+1,M,A+,71.7,166,Erupción cutánea:3|Picazón:2|Enrojecimiento de la piel:2|Ampollas:2|Entumecimiento de mano:1|Ingesta de sustancia tóxica:2,Dermatitis,Betametasona crema,dermatitis
+52,F,A+,53.8,148,Erupción cutánea:1|Picazón:2|Enrojecimiento de la piel:2|Dolor neuropático (quemazón):1|Manchas blancas en la piel:2,Dermatitis|Dislipidemia,Cetirizina,dermatitis
+28,M,O-,67.6,174,Manchas blancas en la piel:3|Picazón:1,Vitiligo,Betametasona crema|Paracetamol,vitiligo
+29,F,B-,50.2,151,Dolor de tobillo:2|Dolor de pie:2|Hinchazón de tobillo:3|Traumatismo:2|Pérdida de apetito:1|Piel seca:1,,Ibuprofeno,pie_tobillo
+51,M,A+,88.9,176,Fatiga:2|Aumento de peso:2|Dolor de cabeza:2|Visión borrosa:1|Vómitos:1|Tristeza persistente:1,Dislipidemia|Hipertensión arterial|Obesidad,Losartán|Simvastatina,sindrome_metabolico|hipertension|obesidad
+40,F,O+,94.3,158,Fatiga:2|Micción frecuente:3|Aumento de peso:2|Disnea:1,Dislipidemia|Hipertensión arterial|Obesidad|Síndrome metabólico,Atorvastatina|Metformina|Simvastatina,sindrome_metabolico|diabetes|obesidad
+25,F,O+,72.2,160,Acidez:1|Sangre en heces:3,,Pantoprazol|Paracetamol,gastro
+60,F,B+,58.5,152,Fatiga persistente:3|Pérdida de olfato:3,Antecedente de COVID-19,,post_covid
+42,M,A-,92.0,172,Erupción cutánea:2|Picazón:2|Enrojecimiento de la piel:1,Dermatitis,Clobetasol|Loratadina,dermatitis
+47,F,O+,83.8,159,Dolor lumbar:2|Dolor de espalda:2|Dolor irradiado a pierna:3|Diarrea:1|Insomnio:1,Trastorno depresivo|Hernia discal|Lumbalgia,Ciclobenzaprina|Diclofenaco|Paracetamol,columna
+22,M,A+,100.8,182,Dolor de tobillo:2|Dolor de pie:2|Hinchazón de tobillo:1|Expectoración:1|Dolor de mano:1,,Paracetamol,pie_tobillo
+32,M,O+,106.9,179,Aumento de peso:2|Fatiga:1|Sed excesiva:3|Congestión nasal:1,Obesidad|Síndrome metabólico,Metformina|Paracetamol|Simvastatina,obesidad|diabetes
+38,M,O+,69.0,177,Diarrea:3|Vómitos:3|Dolor abdominal:3|Pupilas alteradas:1|Expectoración:1,Gastroenteritis aguda|Intoxicación,,infeccion_gi
+35,F,A+,95.5,166,Sed excesiva:2|Micción frecuente:2|Hormigueo en extremidades:2|Fatiga:3|Aumento de peso:2,Diabetes mellitus|Reflujo gastroesofágico|Síndrome metabólico,Paracetamol|Ranitidina,diabetes|obesidad
+61,M,AB+,72.4,162,Orina espumosa:2|Náuseas:3|Dolor lumbar:3|Diarrea:1|Disnea:2,Diabetes mellitus|Enfermedad renal crónica|Hipertensión arterial,Hidroclorotiazida,renal
+35,M,A+,60.0,164,Pérdida de memoria:2|Tristeza persistente:3|Dolor de pecho:1|Hinchazón de piernas:2,Trastorno de ansiedad|TDAH,,neuropsico
+61,F,O+,55.4,148,Hormigueo en extremidades:1|Fatiga:3|Aumento de peso:3|Mareo:2|Visión borrosa:2|Hinchazón de piernas:2|Disminución de orina:3,Diabetes mellitus|Enfermedad renal crónica|Hipertensión arterial,Hidroclorotiazida|Insulina|Simvastatina,diabetes|sindrome_metabolico|hipertension|renal
+55,F,O+,38.6,158,Traumatismo:1,Trastorno de ansiedad|Dislipidemia|Esguince|Hipertensión arterial,Metilfenidato,pie_tobillo
+40,F,A+,51.5,156,Vómitos:3|Dolor abdominal:2|Fiebre:2|Deshidratación:3|Acidez:1|Estreñimiento:1,Gastroenteritis aguda|Reflujo gastroesofágico,Loperamida|Paracetamol|Ranitidina,infeccion_gi|gastro
+71,M,O+,107.5,175,Sed excesiva:3|Hambre excesiva:2|Visión borrosa:3|Fatiga:2|Sudoración excesiva:3|Contacto con químicos:1,Diabetes mellitus|Obesidad|Reflujo gastroesofágico,Metformina,diabetes|obesidad
+14,M,O+,71.1,179,Granos o espinillas:1|Enrojecimiento de la piel:2,Acné vulgar,Isotretinoína,acne
+18,M,O+,62.6,165,Picazón:3|Erupción cutánea:2|Ampollas:1,Eccema|Síndrome del túnel carpiano,Cetirizina|Hidrocortisona crema,eccema
+35,F,AB+,102.5,162,Aumento de peso:2|Disnea:1|Sudoración excesiva:1|Dolor irradiado a pierna:2|Rigidez articular:1|Erupción cutánea:1,Acné vulgar|Lumbalgia|Obesidad|Reflujo gastroesofágico,Ranitidina,obesidad|columna
+41,F,A+,43.1,154,Rigidez articular:1,Hernia discal,Naproxeno|Paracetamol|Tizanidina,columna
+13,M,A+,58.2,168,Ansiedad:1|Insomnio:2|Dificultad de concentración:1|Irritabilidad:1,TDAH,,neuropsico
+46,F,O+,41.0,152,Lesiones con descamación:2|Enrojecimiento de la piel:2,Acné vulgar|Psoriasis,Hidrocortisona crema|Metotrexato,psoriasis
+37,F,O+,72.6,167,Fatiga persistente:2|Niebla mental:3|Pérdida de olfato:2|Palpitaciones:2|Mareo:2|Distensión abdominal:1,Antecedente de COVID-19,Budesonida,post_covid
+32,F,A+,70.8,157,Sed excesiva:3|Heridas de cicatrización lenta:2|Fatiga:2,Hipertensión arterial|Obesidad,Captopril|Glibenclamida|Insulina|Simvastatina,sindrome_metabolico|diabetes|obesidad
+34,M,O+,83.2,167,Dolor de muñeca:2|Dolor de mano:2|Dolor de antebrazo:2|Entumecimiento de mano:1|Limitación de movimiento:3|Traumatismo:2|Congestión nasal:1|Pérdida de peso:2,,Ibuprofeno|Paracetamol,mano_muneca
+59,M,O+,83.9,172,Orina espumosa:1|Hinchazón de piernas:1|Dolor lumbar:1,Enfermedad renal crónica,,renal
+44,M,A+,49.0,177,Erupción cutánea:3|Picazón:3|Piel seca:1,Dermatitis,,dermatitis
+42,F,O+,72.4,153,Dolor lumbar:3|Dolor irradiado a pierna:1|Sangre en orina:1,Dolor crónico,,columna|dolor_cronico
+4,F,O-,52.8,165,Picazón:2|Piel seca:2|Erupción cutánea:2|Enrojecimiento de la piel:3|Dolor de pie:1|Tristeza persistente:2,Eccema,Clobetasol,eccema
+70,M,B+,100.7,175,Dolor persistente:3|Dolor muscular generalizado:2|Tristeza persistente:1|Dolor abdominal:1|Dolor irradiado a pierna:1,Dislipidemia,Diclofenaco|Pregabalina,dolor_cronico
+42,F,O+,86.2,164,Acidez:3|Dolor abdominal:1|Náuseas:1|Pérdida de apetito:1|Mareo:1,Gastritis,Omeprazol|Paracetamol,gastro
+41,M,O+,48.2,167,Dolor persistente:3|Dolor neuropático (quemazón):3|Dolor muscular generalizado:2|Insomnio:1|Micción frecuente:1|Hinchazón de piernas:2,Trastorno de ansiedad|Dolor crónico|Fractura,Ibuprofeno,dolor_cronico
+45,M,A+,80.4,184,Manchas blancas en la piel:2|Pérdida de peso:1|Hinchazón de piernas:2,Trastorno de ansiedad|Vitiligo,Betametasona crema|Sertralina,vitiligo
+64,F,O+,77.9,161,Fatiga:3|Aumento de peso:3|Dolor de cabeza:1|Disnea:2|Sudoración excesiva:1|Salivación excesiva:1,Hipertensión arterial|Obesidad|Síndrome metabólico,Amlodipino|Captopril|Simvastatina,sindrome_metabolico|hipertension|obesidad
+16,F,O+,60.0,156,Tos:2|Disnea:3|Sibilancias:2|Opresión torácica:2,EPOC,Ipratropio,respiratorias
+23,F,O+,64.9,164,Diarrea:3|Vómitos:1|Fiebre:3|Deshidratación:2,Gastroenteritis aguda,Paracetamol,infeccion_gi
+62,M,O+,100.3,178,Diarrea:2|Vómitos:1|Náuseas:2|Fiebre:2,Gastroenteritis aguda,Paracetamol,infeccion_gi
+53,F,O+,76.9,159,Dolor persistente:2|Dolor muscular generalizado:2|Fatiga:1|Rigidez articular:1,Dolor crónico|Reflujo gastroesofágico,Paracetamol|Pregabalina|Ranitidina|Tramadol,dolor_cronico
+51,F,A+,56.2,165,Dolor de tobillo:1|Dolor de pie:2|Ampollas:2,Esguince|Fractura,Naproxeno|Paracetamol,pie_tobillo
+44,M,A+,90.3,174,Acidez:2|Náuseas:2|Estreñimiento:1,Reflujo gastroesofágico,Pantoprazol,gastro
+61,F,A+,63.7,151,Acidez:1|Distensión abdominal:3|Náuseas:2|Estreñimiento:2|Sangre en heces:2|Pérdida de apetito:1|Pérdida de peso:2,Gastritis,Ranitidina,gastro
+1,M,A+,54.0,161,Ansiedad:1|Dificultad de concentración:3|Irritabilidad:2|Tristeza persistente:3|Rigidez articular:1|Hinchazón de tobillo:1,Trastorno de ansiedad|Reflujo gastroesofágico,Metilfenidato|Ranitidina|Sertralina,neuropsico
+36,F,A+,81.2,159,Dolor de espalda:3|Fatiga:2|Hambre excesiva:2|Pérdida de peso:2|Mareo:1,Trastorno de ansiedad|Diabetes mellitus|Hipertensión arterial|Obesidad|Síndrome metabólico,Escitalopram|Simvastatina,obesidad|sindrome_metabolico|diabetes
+7,F,O+,45.5,153,Granos o espinillas:1|Picazón:2|Dolor de antebrazo:1,Acné vulgar|Trastorno de ansiedad|Dislipidemia,Paracetamol|Peróxido de benzoilo|Simvastatina,acne
+35,F,A+,83.0,182,Diarrea:2|Vómitos:3|Dolor abdominal:2|Fiebre:2|Deshidratación:2,,Sales de rehidratación oral,infeccion_gi
+56,M,A+,99.7,164,Sed excesiva:1|Micción frecuente:2|Visión borrosa:2|Fatiga:1|Congestión nasal:2,Trastorno de ansiedad|Dislipidemia|Hipertensión arterial,Insulina|Sertralina,diabetes
+23,F,O+,52.5,158,Granos o espinillas:1|Picazón:1,Acné vulgar,Adapaleno|Paracetamol,acne
+45,M,O+,82.5,173,Vómitos:1|Náuseas:2|Confusión:3|Salivación excesiva:1|Contacto con químicos:2,Intoxicación,,intoxicaciones
+32,F,O-,55.5,145,Dolor lumbar:3|Dolor de espalda:3|Dolor irradiado a pierna:2,Dislipidemia|Fractura|Hernia discal,Ciclobenzaprina|Naproxeno,columna
+47,M,A-,123.1,176,Orina espumosa:2|Disminución de orina:3|Sangre en orina:3,Enfermedad renal crónica|Hipertensión arterial,,renal
+51,F,O-,73.0,159,Lesiones con descamación:3|Picazón:2|Ansiedad:1|Dolor muscular generalizado:2,Psoriasis,Betametasona crema|Calcipotriol,psoriasis
+1,F,B-,69.1,161,Acidez:2|Dolor abdominal:2|Distensión abdominal:1|Estreñimiento:1|Sangre en heces:3|Dolor de cuello:1,Reflujo gastroesofágico,Ranitidina,gastro
+35,F,B+,84.8,168,Dolor de tobillo:3|Dolor de pie:2|Hinchazón de tobillo:2|Limitación de movimiento:2,Esguince,Naproxeno|Paracetamol,pie_tobillo
+48,F,A+,71.8,156,Lesiones con descamación:2|Picazón:2|Enrojecimiento de la piel:1|Rigidez articular:1,Dislipidemia|Fractura|Psoriasis,Clobetasol|Diclofenaco|Metotrexato|Simvastatina,psoriasis
+50,M,O-,52.4,166,Dolor persistente:2|Dolor muscular generalizado:2|Insomnio:2,Dolor crónico,Gabapentina|Paracetamol|Tramadol,dolor_cronico
+41,M,O+,99.5,168,Aumento de peso:2|Fatiga:1|Dolor de espalda:2|Sed excesiva:1|Niebla mental:2,Obesidad,,obesidad
+40,M,A+,74.6,181,Dolor de tobillo:3|Hinchazón de tobillo:2|Limitación de movimiento:1|Traumatismo:2|Convulsiones:1|Opresión torácica:1,Fractura|Reflujo gastroesofágico,Ibuprofeno|Naproxeno,pie_tobillo
+77,F,O+,82.9,156,Orina espumosa:1|Disminución de orina:3|Sangre en orina:3|Fatiga:3|Náuseas:3|Dolor lumbar:3|Mareo:1|Palpitaciones:1|Dolor de pecho:2|Dolor irradiado a pierna:2,Trastorno de ansiedad|Dislipidemia|Enfermedad renal crónica|Fractura|TDAH,Captopril|Furosemida|Naproxeno,renal|hipertension
+70,F,A+,65.9,162,Mareo:3|Dolor de pecho:3|Expectoración:1|Piel seca:1,Hipertensión arterial|Obesidad,Atenolol,hipertension|obesidad
+19,F,A+,59.5,159,Manchas blancas en la piel:2|Picazón:1,Vitiligo,Clobetasol|Paracetamol|Tacrolimus,vitiligo
+20,F,O+,60.7,154,Lesiones con descamación:3|Picazón:2|Enrojecimiento de la piel:3|Vómitos:1,Psoriasis,Paracetamol|Tacrolimus,psoriasis
+66,M,O+,101.1,168,Mareo:1|Fatiga:1|Aumento de peso:3|Limitación de movimiento:2|Granos o espinillas:1,Dislipidemia|Fractura|Hipertensión arterial,Atorvastatina|Enalapril|Hidroclorotiazida|Naproxeno|Paracetamol|Simvastatina,hipertension|sindrome_metabolico
+47,M,O+,64.8,157,Lesiones con descamación:2|Picazón:2|Contacto con químicos:2,Trastorno de ansiedad|Psoriasis,Clonazepam,psoriasis
+41,F,O+,69.8,165,Lesiones con descamación:3|Picazón:2|Rigidez articular:3|Convulsiones:1|Dolor abdominal:1,Dislipidemia|Psoriasis|Reflujo gastroesofágico,Clobetasol|Metotrexato|Omeprazol,psoriasis
+55,F,O+,76.8,164,Fatiga persistente:3|Disnea:2|Pérdida de olfato:2|Tos:2|Dolor muscular generalizado:3|Expectoración:3,Antecedente de COVID-19,Amoxicilina|Prednisona,post_covid|respiratorias
+53,F,A+,70.3,166,Dolor de cabeza:2|Mareo:2|Visión borrosa:2|Fatiga:3|Aumento de peso:1|Pupilas alteradas:1,Hipertensión arterial,Amlodipino|Hidroclorotiazida,hipertension|obesidad
+66,M,A+,74.8,167,Dolor de muñeca:1|Entumecimiento de mano:3|Limitación de movimiento:2,,Ibuprofeno,mano_muneca
+30,M,A+,63.5,161,Acidez:2|Dolor abdominal:2|Distensión abdominal:1|Náuseas:2|Pérdida de apetito:1,Reflujo gastroesofágico,Pantoprazol|Paracetamol,gastro
+53,M,O+,87.6,179,Micción frecuente:1|Dolor de cabeza:1|Visión borrosa:2|Palpitaciones:2|Mareo:2|Lesiones con descamación:1,Diabetes mellitus,Insulina,diabetes|hipertension
+15,M,O+,47.0,176,Manchas blancas en la piel:1,Trastorno de ansiedad|Dislipidemia|Vitiligo,Hidrocortisona crema|Simvastatina|Tacrolimus,vitiligo
+95,M,A-,88.0,168,Sed excesiva:3|Micción frecuente:2|Hambre excesiva:3|Hormigueo en extremidades:3|Fatiga:3|Granos o espinillas:1|Rigidez articular:1,Diabetes mellitus|Obesidad,Atenolol|Metformina|Paracetamol|Simvastatina|Sitagliptina,diabetes|sindrome_metabolico|obesidad
+38,M,O+,68.6,170,Fatiga persistente:3|Pérdida de olfato:2|Palpitaciones:2|Insomnio:2|Cambios de conducta:2,Antecedente de COVID-19,,post_covid
+16,F,A+,61.5,152,Ingesta de sustancia tóxica:3|Vómitos:3|Confusión:2|Pupilas alteradas:2,Intoxicación,N-acetilcisteína,intoxicaciones
+28,M,O+,99.8,175,Fatiga:2|Rigidez articular:1,Diabetes mellitus|Dislipidemia|Hipertensión arterial|Obesidad|Síndrome metabólico,Atorvastatina|Losartán,sindrome_metabolico
+54,F,O+,77.3,166,Fatiga persistente:3|Pérdida de olfato:1|Dolor de pie:1,Antecedente de COVID-19,,post_covid
+72,M,O+,71.5,164,Sed excesiva:2|Micción frecuente:3|Pérdida de peso:1|Heridas de cicatrización lenta:2|Manchas blancas en la piel:2|Dificultades de aprendizaje:1,Diabetes mellitus|Hipertensión arterial|Obesidad,Atorvastatina|Paracetamol|Sitagliptina,diabetes
+5,M,O+,71.1,175,Ansiedad:2|Insomnio:2|Dificultad de concentración:2|Pérdida de memoria:2|Hambre excesiva:2,,,neuropsico
+20,F,O+,83.5,166,Manchas blancas en la piel:1,Reflujo gastroesofágico|Vitiligo,Betametasona crema|Pantoprazol|Paracetamol|Tacrolimus,vitiligo
+60,M,O+,96.6,166,Sed excesiva:3|Pérdida de peso:3|Visión borrosa:3|Mareo:1,Dislipidemia|Reflujo gastroesofágico|Síndrome metabólico,Atorvastatina|Insulina|Pantoprazol|Paracetamol|Sitagliptina,diabetes|sindrome_metabolico
+34,M,O+,112.2,172,Dolor de cabeza:3|Mareo:2|Aumento de peso:2|Sudoración excesiva:3,Hipertensión arterial,Atenolol|Atorvastatina|Enalapril|Sitagliptina,hipertension|sindrome_metabolico|obesidad
+38,M,A-,111.9,185,Dolor de cabeza:2|Mareo:2|Fatiga:1|Dolor de espalda:2|Dolor de tobillo:2,Dislipidemia,Atenolol,hipertension|obesidad
+24,F,O+,75.0,171,Ingesta de sustancia tóxica:3|Vómitos:1|Dolor abdominal:3|Expectoración:1|Fiebre:1,Dislipidemia|Intoxicación,,intoxicaciones
+59,M,A+,71.1,180,Acidez:3|Distensión abdominal:2|Náuseas:2|Estreñimiento:1|Vómitos:3|Dolor abdominal:3|Fiebre:1,Gastritis|Reflujo gastroesofágico,Sales de rehidratación oral,gastro|infeccion_gi
+32,M,O+,80.9,173,Tos:2|Disnea:3|Sibilancias:3|Expectoración:1|Opresión torácica:2|Dolor de garganta:1,Trastorno de ansiedad|Asma bronquial|Dislipidemia,Atorvastatina|Prednisona|Sertralina,respiratorias
+53,F,A+,77.2,157,Orina espumosa:1|Hinchazón de piernas:1|Fatiga:1|Dolor lumbar:2|Pérdida de apetito:2,Enfermedad renal crónica|Fractura,Hidroclorotiazida|Paracetamol,renal
+36,F,O+,61.0,155,Dolor persistente:3,Dolor crónico,Pregabalina,dolor_cronico
+48,M,O+,76.4,185,Dolor persistente:3|Dolor neuropático (quemazón):3|Dolor muscular generalizado:1|Fatiga:3|Tristeza persistente:2,Trastorno de ansiedad|Dolor crónico|Fractura,Paracetamol|Sertralina,dolor_cronico
+44,F,O+,59.8,150,Fatiga persistente:2|Disnea:2|Hormigueo en extremidades:2|Opresión torácica:1,Antecedente de COVID-19,,post_covid
+47,F,A+,86.9,167,Dolor lumbar:3|Dolor de espalda:3|Tristeza persistente:1|Pérdida de peso:2,Dolor crónico|Hernia discal|Lumbalgia,Paracetamol|Tizanidina,columna|dolor_cronico
+27,M,O-,72.2,173,Manchas blancas en la piel:3|Dolor de garganta:1|Tos:1,Reflujo gastroesofágico|Vitiligo,Omeprazol|Tacrolimus,vitiligo
+63,M,A+,90.6,172,Visión borrosa:1|Sed excesiva:2|Aumento de peso:2|Fatiga:1|Sudoración excesiva:2,Obesidad,Enalapril|Metformina,hipertension|sindrome_metabolico|obesidad
+46,F,O+,94.2,166,Tos:1|Disnea:1|Fiebre:1|Dolor de garganta:2,Dislipidemia|Infección respiratoria aguda,Metronidazol|Prednisona,respiratorias
+30,F,A+,64.5,157,Diarrea:3|Vómitos:2|Náuseas:2|Fiebre:1|Deshidratación:3|Acidez:2|Dolor abdominal:1|Dolor de cuello:2,Dermatitis|Gastroenteritis aguda,Azitromicina|Paracetamol,infeccion_gi|gastro
+28,M,O+,70.2,171,Dolor lumbar:2|Hormigueo en extremidades:2,Lumbalgia,Naproxeno,columna
+18,M,B+,75.9,169,Granos o espinillas:1|Picazón:1,Acné vulgar|TDAH,Adapaleno,acne
+56,M,O+,73.7,179,Erupción cutánea:2|Picazón:1|Ampollas:3|Pérdida de apetito:1,Dermatitis,Cetirizina|Hidrocortisona crema,dermatitis
+64,M,O+,82.6,174,Dolor de cabeza:2|Mareo:3|Sed excesiva:3,Diabetes mellitus|Hipertensión arterial,Atenolol|Furosemida,hipertension|diabetes
+21,F,O+,82.3,162,Dolor de cuello:2|Rigidez articular:2|Hormigueo en extremidades:2|Dolor de cabeza:1|Sed excesiva:2,Dislipidemia|Hernia discal|Lumbalgia,Paracetamol|Simvastatina,columna
+1,F,B+,51.6,154,Ansiedad:2,Trastorno de ansiedad|Dislipidemia|TDAH,Escitalopram|Metilfenidato|Paracetamol|Simvastatina,neuropsico
+15,M,A+,83.1,175,Granos o espinillas:3,Acné vulgar,Ciprofloxacino|Peróxido de benzoilo,acne
+45,F,O+,97.7,170,Sed excesiva:2|Micción frecuente:1|Pérdida de peso:1|Visión borrosa:3|Hormigueo en extremidades:2|Mareo:3|Disnea:3,Diabetes mellitus|Hipertensión arterial|Obesidad|Síndrome metabólico,Amlodipino|Sitagliptina,sindrome_metabolico|diabetes|hipertension|obesidad
+41,M,O+,70.1,166,Aumento de peso:1|Pérdida de peso:1|Fatiga:3|Deshidratación:1,Diabetes mellitus|Dislipidemia|Hipertensión arterial|Obesidad,Enalapril|Glibenclamida|Paracetamol|Simvastatina,sindrome_metabolico|diabetes
+38,F,A+,73.1,153,Dolor de cabeza:1,Dislipidemia|Hipertensión arterial|Reflujo gastroesofágico|Síndrome metabólico,Ranitidina|Simvastatina,sindrome_metabolico|hipertension
+1,F,B+,58.2,159,Ingesta de sustancia tóxica:3|Vómitos:1|Náuseas:2|Dolor abdominal:3|Contacto con químicos:3|Cambios de conducta:1|Hinchazón de piernas:1,Intoxicación,,intoxicaciones
+34,M,O+,115.1,176,Aumento de peso:2|Fatiga:1,Obesidad,Enalapril|Simvastatina,obesidad|sindrome_metabolico
+48,M,B+,91.3,172,Ingesta de sustancia tóxica:2,Intoxicación,Carbón activado,intoxicaciones
+11,M,A-,55.2,161,Picazón:2|Erupción cutánea:2,Trastorno de ansiedad|Eccema,Loratadina|Metilfenidato,eccema
+46,M,O+,73.6,173,Manchas blancas en la piel:3|Contacto con químicos:2,Dislipidemia|Vitiligo,Atorvastatina,vitiligo
+19,M,O+,69.4,170,Dolor de pie:3|Hinchazón de tobillo:2|Limitación de movimiento:1|Traumatismo:1|Dolor neuropático (quemazón):2,,Naproxeno|Paracetamol,pie_tobillo
+37,F,A+,75.0,170,Dolor de mano:2|Dolor de antebrazo:2|Limitación de movimiento:3|Picazón:2,,Naproxeno,mano_muneca
+41,F,O+,59.1,151,Hinchazón de piernas:2|Disminución de orina:2|Fatiga:3|Palpitaciones:2|Micción frecuente:2|Visión borrosa:3,Enfermedad renal crónica|Hipertensión arterial,Atorvastatina|Enalapril|Hidroclorotiazida|Metformina|Paracetamol,renal|hipertension|diabetes
+76,F,O+,52.5,145,Hinchazón de piernas:3|Disminución de orina:3|Micción frecuente:3|Hambre excesiva:3|Hormigueo en extremidades:2|Heridas de cicatrización lenta:3,Enfermedad renal crónica|Hipertensión arterial,Atorvastatina|Hidroclorotiazida,renal|diabetes
+19,M,A-,58.5,173,Manchas blancas en la piel:1|Picazón:1,Vitiligo,Metotrexato,vitiligo
+8,M,O+,71.8,165,Insomnio:1|Dificultad de concentración:2|Tristeza persistente:2|Cambios de conducta:3,Reflujo gastroesofágico,Escitalopram|Ranitidina,neuropsico
+29,F,A+,58.4,148,Vómitos:3|Fiebre:2|Deshidratación:2|Dolor muscular generalizado:1|Enrojecimiento de la piel:1,Diabetes mellitus|Gastroenteritis aguda,Paracetamol,infeccion_gi
+39,M,A+,78.7,181,Picazón:3|Piel seca:1|Dolor de cuello:1,Eccema,Clobetasol|Loratadina,eccema
+58,F,A-,62.8,159,Diarrea:3|Dolor abdominal:3|Fiebre:1,,,infeccion_gi
+68,M,O+,83.6,178,Dolor lumbar:3|Dolor de espalda:1|Dolor irradiado a pierna:3|Hormigueo en extremidades:2,Fractura,Ciclobenzaprina|Diclofenaco|Naproxeno,columna
+47,M,B-,80.4,179,Lesiones con descamación:3|Enrojecimiento de la piel:2|Visión borrosa:2|Dolor de pie:2,Psoriasis,Betametasona crema,psoriasis
+27,F,O+,64.4,158,Granos o espinillas:2|Enrojecimiento de la piel:1,Acné vulgar|Gastritis,Adapaleno|Ciprofloxacino,acne
+39,M,A+,78.5,168,Fatiga:2|Palpitaciones:1|Dificultades de aprendizaje:1,Dislipidemia|Hipertensión arterial|Obesidad|Síndrome metabólico,Atorvastatina,sindrome_metabolico|hipertension
+29,F,O+,64.1,168,Lesiones con descamación:3|Picazón:2,Psoriasis|Reflujo gastroesofágico,Ranitidina,psoriasis
+1,M,B-,76.4,164,Picazón:3|Piel seca:3|Erupción cutánea:3|Enrojecimiento de la piel:2|Ampollas:1|Estreñimiento:1,Eccema,Loratadina,eccema
+68,F,O-,89.9,163,Dolor de cabeza:2|Mareo:2|Fatiga:1|Aumento de peso:2|Sed excesiva:1|Micción frecuente:3|Hambre excesiva:2|Entumecimiento de mano:1,Dislipidemia|Hipertensión arterial|Obesidad,Captopril|Furosemida|Simvastatina,hipertension|sindrome_metabolico|obesidad|diabetes
+33,F,O+,84.2,157,Dolor de pecho:3|Fatiga:3|Sed excesiva:3|Hambre excesiva:2|Hormigueo en extremidades:3|Hinchazón de piernas:1|Náuseas:3,Diabetes mellitus|Hipertensión arterial,Atenolol|Furosemida,hipertension|diabetes|renal
+51,F,O+,64.6,168,Erupción cutánea:3|Enrojecimiento de la piel:2|Ampollas:3,Dermatitis,Hidrocortisona crema|Paracetamol,dermatitis
+29,M,O+,59.3,173,Ingesta de sustancia tóxica:3|Vómitos:3|Náuseas:1|Confusión:3|Pupilas alteradas:2|Contacto con químicos:3|Dolor de tobillo:1,Intoxicación,,intoxicaciones
+18,F,O-,58.3,155,Ingesta de sustancia tóxica:3|Náuseas:1,Intoxicación,Atropina,intoxicaciones
+22,F,O-,61.4,167,Dolor de muñeca:3|Entumecimiento de mano:2|Limitación de movimiento:1|Deshidratación:1|Hinchazón de piernas:2,Esguince,Paracetamol,mano_muneca
+36,M,A-,67.3,165,Fatiga persistente:2|Disnea:3|Pérdida de olfato:1|Tos:2|Sibilancias:2|Dolor abdominal:2,Infección respiratoria aguda|Neumonía,Paracetamol|Prednisona,post_covid|respiratorias
+46,M,A+,114.1,175,Fatiga:2|Aumento de peso:3|Sed excesiva:3|Dolor de muñeca:2|Niebla mental:1,Dislipidemia|Obesidad|Reflujo gastroesofágico,Enalapril|Glibenclamida|Ranitidina|Simvastatina,sindrome_metabolico|diabetes
+50,M,B+,84.9,168,Dolor de tobillo:2|Limitación de movimiento:1|Acidez:2,Esguince,Ibuprofeno,pie_tobillo
+44,F,O+,72.5,169,Ingesta de sustancia tóxica:3|Náuseas:2|Confusión:2|Pupilas alteradas:1|Salivación excesiva:3|Convulsiones:2|Dolor abdominal:3|Contacto con químicos:3,Dislipidemia|Intoxicación,Atorvastatina|N-acetilcisteína,intoxicaciones
+47,F,A+,80.7,163,Aumento de peso:2|Dolor de cabeza:1|Pérdida de peso:3|Fatiga:2,Diabetes mellitus|Dislipidemia|Hipertensión arterial|Síndrome metabólico,Atorvastatina|Losartán|Metformina,sindrome_metabolico|diabetes
+27,F,O+,66.2,160,Erupción cutánea:3|Picazón:2|Enrojecimiento de la piel:2|Piel seca:2,Dermatitis,Betametasona crema|Loratadina|Paracetamol,dermatitis
+55,M,O+,93.4,174,Tos:2|Disnea:3|Opresión torácica:2|Fatiga persistente:3|Pérdida de olfato:1|Palpitaciones:1,Trastorno de ansiedad|Asma bronquial|EPOC|Neumonía|Reflujo gastroesofágico,Ipratropio|Omeprazol|Paracetamol|Prednisona|Sertralina,respiratorias|post_covid
+1,F,O+,65.4,160,Tos:2|Disnea:2|Sibilancias:1|Expectoración:2|Congestión nasal:1,Asma bronquial|Reflujo gastroesofágico,Pantoprazol|Paracetamol|Salbutamol,respiratorias
+63,F,O+,71.5,159,Lesiones con descamación:2,Psoriasis|Reflujo gastroesofágico,Omeprazol|Tacrolimus,psoriasis
+13,M,O+,60.6,179,Dificultad de concentración:2|Irritabilidad:2|Tristeza persistente:2,Trastorno de ansiedad,Sertralina,neuropsico
+60,F,O+,48.3,152,Mareo:2|Sed excesiva:2|Micción frecuente:1|Visión borrosa:2|Ansiedad:2|Entumecimiento de mano:2,Hipertensión arterial,Captopril,hipertension|diabetes
+52,F,O+,71.0,163,Dolor de mano:2|Dolor de antebrazo:2|Traumatismo:2|Hambre excesiva:2,Fractura,Naproxeno,mano_muneca
+23,F,B+,57.0,155,Dificultad de concentración:2|Irritabilidad:1|Tristeza persistente:3|Dolor muscular generalizado:2|Fatiga:3,Trastorno de ansiedad|Trastorno depresivo|Dolor crónico|TDAH,Gabapentina,neuropsico|dolor_cronico
+38,M,B+,68.5,168,Erupción cutánea:2|Picazón:3|Enrojecimiento de la piel:1,Dermatitis,Cetirizina,dermatitis
+21,F,O+,60.6,157,Ansiedad:3|Insomnio:2|Dificultad de concentración:2|Irritabilidad:1|Tristeza persistente:2,Trastorno de ansiedad|Trastorno depresivo|Reflujo gastroesofágico,Clonazepam|Pantoprazol,neuropsico
+43,M,O+,62.2,177,Irritabilidad:3|Pérdida de memoria:3,Trastorno depresivo|Fractura|TDAH,,neuropsico
+1,F,A+,58.1,159,Picazón:3|Piel seca:1,,Hidrocortisona crema,eccema
+13,F,O+,48.4,152,Manchas blancas en la piel:3,,Metotrexato|Paracetamol,vitiligo
+43,F,O+,110.1,168,Micción frecuente:1|Hambre excesiva:2|Visión borrosa:1|Hormigueo en extremidades:1|Disnea:1,Diabetes mellitus|Hipertensión arterial|Obesidad,,diabetes|obesidad
+21,M,A+,87.0,174,Ingesta de sustancia tóxica:2|Náuseas:3|Salivación excesiva:2|Contacto con químicos:2|Pérdida de peso:1|Rigidez articular:1,Intoxicación,N-acetilcisteína|Paracetamol,intoxicaciones
+32,M,A+,80.4,172,Dolor de muñeca:2|Dolor de mano:2|Entumecimiento de mano:2,Dislipidemia|Síndrome del túnel carpiano,Ibuprofeno|Paracetamol|Simvastatina,mano_muneca
+48,M,O+,86.1,182,Dolor persistente:2|Dolor muscular generalizado:1,Dolor crónico,Ibuprofeno,dolor_cronico
+27,M,O+,86.6,179,Dolor de muñeca:3|Dolor de antebrazo:1|Entumecimiento de mano:2|Enrojecimiento de la piel:2,Fractura,Diclofenaco,mano_muneca
+37,M,A+,91.1,178,Dolor de muñeca:3|Dolor de mano:2|Dolor de antebrazo:2|Limitación de movimiento:1|Traumatismo:1|Palpitaciones:1|Sudoración excesiva:1,Síndrome del túnel carpiano,Ibuprofeno,mano_muneca
+29,M,O+,70.3,181,Lesiones con descamación:3|Rigidez articular:2,Psoriasis,,psoriasis
+64,F,A+,55.8,153,Disminución de orina:2|Fatiga:3|Náuseas:2|Visión borrosa:1|Sudoración excesiva:2,Diabetes mellitus|Enfermedad renal crónica|Fractura,Atorvastatina|Captopril|Hidroclorotiazida|Losartán|Naproxeno,renal|hipertension
+42,F,B+,65.7,151,Dolor de tobillo:3|Dolor de pie:3|Hinchazón de tobillo:2|Limitación de movimiento:2|Traumatismo:1,,Ibuprofeno|Paracetamol,pie_tobillo
+22,F,A+,47.9,159,Diarrea:3|Vómitos:1|Náuseas:1|Dolor abdominal:2|Pérdida de memoria:1|Picazón:2,Gastroenteritis aguda,Loperamida|Paracetamol,infeccion_gi
+55,M,O+,78.7,162,Dolor lumbar:2|Dolor de espalda:3|Hormigueo en extremidades:2|Dolor persistente:2|Dolor neuropático (quemazón):2|Pérdida de apetito:1,Dolor crónico|Hernia discal|Lumbalgia,,columna|dolor_cronico
+31,F,O+,63.3,155,Dolor de tobillo:3|Hinchazón de tobillo:3|Limitación de movimiento:2|Traumatismo:2,,Diclofenaco,pie_tobillo
+19,F,O+,62.7,151,Manchas blancas en la piel:3,Vitiligo,Hidrocortisona crema,vitiligo
+45,M,O-,76.7,163,Aumento de peso:2|Fatiga:2|Dolor de espalda:1|Sudoración excesiva:1,Obesidad,Amlodipino|Atorvastatina,obesidad|sindrome_metabolico
+38,F,O+,68.1,170,Dolor abdominal:3|Distensión abdominal:1|Náuseas:3|Dolor de mano:1,Trastorno de ansiedad|Fractura|Gastritis|Reflujo gastroesofágico,Metilfenidato|Omeprazol|Paracetamol,gastro
+27,F,O+,69.2,154,Dolor lumbar:2|Dolor de espalda:1|Dolor de garganta:1|Dolor abdominal:2,Lumbalgia,Paracetamol,columna
+3,F,B-,70.9,160,Ansiedad:3|Dificultad de concentración:1|Irritabilidad:1|Tristeza persistente:1|Visión borrosa:2,Trastorno depresivo,Clonazepam,neuropsico
+18,F,O+,100.8,161,Fatiga:2|Disnea:2|Pérdida de apetito:1,Trastorno de ansiedad|Dislipidemia|Obesidad,Atorvastatina|Paracetamol,obesidad
+41,F,O+,58.5,155,Fatiga persistente:3|Disnea:2|Pérdida de olfato:2|Tos:2|Palpitaciones:2|Dolor muscular generalizado:2,Antecedente de COVID-19,Paracetamol,post_covid
+33,M,A+,98.4,176,Disminución de orina:3|Sangre en orina:3|Náuseas:2,Enfermedad renal crónica,Amlodipino|Furosemida,renal
+43,F,O+,71.9,157,Dolor lumbar:3|Dolor de espalda:3|Dolor irradiado a pierna:2,Hernia discal|Lumbalgia,Ciclobenzaprina,columna
+45,M,A+,100.8,166,Tos:1|Disnea:2|Sibilancias:3|Congestión nasal:2,,Ciprofloxacino|Salbutamol,respiratorias
+40,F,O+,72.3,158,Fatiga:2|Mareo:1|Micción frecuente:2|Heridas de cicatrización lenta:2|Dolor de cabeza:2|Dificultades de aprendizaje:1,Dislipidemia|Hipertensión arterial|Obesidad|Síndrome metabólico,Amlodipino|Captopril|Insulina,sindrome_metabolico|diabetes|hipertension
+50,F,O+,64.3,169,Fatiga persistente:1|Niebla mental:2|Disnea:2|Tos:2,Antecedente de COVID-19,,post_covid
+61,M,O-,93.3,166,Fatiga:2|Dolor de espalda:2|Sudoración excesiva:1|Visión borrosa:2|Vómitos:1,Diabetes mellitus|Obesidad,Captopril,sindrome_metabolico|obesidad
+33,F,A+,77.6,163,Dolor abdominal:3|Distensión abdominal:2|Náuseas:3|Estreñimiento:1|Heridas de cicatrización lenta:2,Gastritis|Reflujo gastroesofágico,Paracetamol,gastro
+28,F,O+,79.3,164,Dolor lumbar:2|Rigidez articular:2,,,columna
+71,M,O-,53.5,164,Hinchazón de piernas:3|Fatiga:2|Náuseas:3|Dolor de antebrazo:1,Enfermedad renal crónica,Enalapril|Furosemida,renal
+38,F,AB+,99.3,171,Micción frecuente:2,Trastorno de ansiedad|Diabetes mellitus|Obesidad|Reflujo gastroesofágico,Atenolol|Omeprazol,obesidad|sindrome_metabolico|diabetes
+36,M,B+,80.0,182,Micción frecuente:3|Pérdida de peso:3|Dolor de cabeza:2|Mareo:2|Dolor de pecho:2|Hambre excesiva:1|Dolor persistente:1,Diabetes mellitus,Enalapril|Simvastatina|Sitagliptina,diabetes|hipertension
+92,M,A-,72.0,173,Tos:2|Expectoración:3|Congestión nasal:2|Rigidez articular:1|Disminución de orina:2,Neumonía,Azitromicina|Budesonida|Paracetamol|Salbutamol,respiratorias
+1,M,A+,63.8,176,Ingesta de sustancia tóxica:2|Vómitos:3|Confusión:2|Salivación excesiva:2,Infección respiratoria aguda|Intoxicación,N-acetilcisteína,intoxicaciones
+51,M,O+,87.3,166,Dolor persistente:3|Dolor muscular generalizado:3|Insomnio:2|Disminución de orina:2|Hinchazón de tobillo:1,Dolor crónico,Tramadol,dolor_cronico
+40,M,A+,79.0,185,Dolor lumbar:2|Dolor de espalda:2|Dolor de cuello:1|Hormigueo en extremidades:2,Lumbalgia,,columna
+19,M,O+,62.8,170,Ingesta de sustancia tóxica:2|Vómitos:2|Salivación excesiva:3|Convulsiones:3|Dolor abdominal:3,Intoxicación,,intoxicaciones
+38,F,O+,128.1,170,Aumento de peso:1|Fatiga:2|Sudoración excesiva:2|Dolor de pecho:1|Granos o espinillas:2,Dislipidemia|Obesidad|Reflujo gastroesofágico,Simvastatina,obesidad|sindrome_metabolico
+47,M,A+,68.1,165,Sed excesiva:2|Pérdida de peso:1,Diabetes mellitus|Fractura|Obesidad|Reflujo gastroesofágico,Pantoprazol|Sitagliptina,diabetes
+65,M,O+,82.9,182,Mareo:2|Visión borrosa:2|Hambre excesiva:3|Fatiga:2,Hipertensión arterial,Enalapril|Insulina|Simvastatina,hipertension|diabetes
+11,M,O+,81.1,174,Granos o espinillas:2,Acné vulgar|Fractura,Adapaleno|Paracetamol,acne
+25,F,O+,70.3,175,Dolor de pie:2|Traumatismo:2,Reflujo gastroesofágico,Diclofenaco|Pantoprazol|Paracetamol,pie_tobillo
+16,M,A+,62.1,173,Manchas blancas en la piel:1|Fiebre:1,Vitiligo,Calcipotriol|Hidrocortisona crema,vitiligo
+60,M,A+,73.7,175,Orina espumosa:1|Hinchazón de piernas:2|Disminución de orina:1|Fatiga:3|Pérdida de apetito:2,Enfermedad renal crónica|Hipertensión arterial,Atenolol|Enalapril,renal|hipertension
+12,M,A+,95.9,174,Piel seca:1|Contacto con químicos:1|Lesiones con descamación:2,,Cetirizina|Hidrocortisona crema|Paracetamol,dermatitis
+30,M,A+,69.4,166,Fatiga persistente:3|Niebla mental:2|Tos:2|Dolor muscular generalizado:2,Antecedente de COVID-19,Budesonida,post_covid
+11,M,A+,57.7,162,Granos o espinillas:2|Enrojecimiento de la piel:1,Acné vulgar,Adapaleno,acne
+41,F,O+,64.8,159,Dolor de muñeca:3|Dolor de mano:2|Dolor de antebrazo:2|Traumatismo:3|Deshidratación:2,Esguince|TDAH,,mano_muneca
+23,M,AB+,70.5,180,Ansiedad:3|Dificultad de concentración:2|Pérdida de memoria:1|Tristeza persistente:3|Cambios de conducta:2|Tos:1,TDAH,Paracetamol,neuropsico
+58,M,O+,71.0,164,Tos:3|Disnea:3|Expectoración:3,Dislipidemia|EPOC,Paracetamol|Prednisona,respiratorias
+29,F,B+,76.3,161,Dolor de cabeza:2,Dislipidemia|Hipertensión arterial,Enalapril,hipertension
+52,M,O+,86.7,171,Dolor de muñeca:3|Dolor de antebrazo:2,,,mano_muneca
+27,M,A+,60.6,169,Picazón:3|Traumatismo:1|Salivación excesiva:1,Eccema,Clobetasol|Loratadina,eccema
+30,F,O+,57.9,154,Ingesta de sustancia tóxica:3|Náuseas:2|Confusión:3|Pupilas alteradas:1|Salivación excesiva:2,,,intoxicaciones
+63,F,A+,67.4,168,Picazón:3|Enrojecimiento de la piel:2|Piel seca:1|Orina espumosa:1,Dermatitis,,dermatitis
+27,F,A+,46.6,157,Granos o espinillas:1|Diarrea:1,Dislipidemia,Isotretinoína|Simvastatina,acne
+14,F,A+,63.4,159,Granos o espinillas:2,Acné vulgar,Adapaleno,acne
+27,M,A+,77.8,178,Manchas blancas en la piel:2|Contacto con químicos:1,Vitiligo,,vitiligo
+38,M,O+,100.3,168,Aumento de peso:2|Disnea:1|Dolor de muñeca:1,Obesidad,,obesidad
+36,F,O+,53.3,152,Picazón:3|Piel seca:3|Dolor abdominal:1|Contacto con químicos:1,Eccema,Hidrocortisona crema|Paracetamol|Tacrolimus,eccema
+53,M,A-,86.1,163,Tos:1|Disnea:2|Opresión torácica:2|Fiebre:2|Dolor de garganta:3|Vómitos:1,,Salbutamol,respiratorias
+35,F,O+,40.4,148,Erupción cutánea:2|Ampollas:1|Piel seca:2|Opresión torácica:1,Dermatitis|Dislipidemia|Fractura,Naproxeno|Paracetamol,dermatitis
+66,M,A+,91.7,168,Sed excesiva:3|Hambre excesiva:1|Heridas de cicatrización lenta:2,Diabetes mellitus|Hipertensión arterial,Metformina,diabetes
+36,M,A+,42.8,169,Erupción cutánea:1|Picazón:3|Enrojecimiento de la piel:3,Fractura|Reflujo gastroesofágico,Clobetasol|Diclofenaco|Pantoprazol,dermatitis
+50,F,O+,60.3,156,Tos:2|Disnea:2|Congestión nasal:3|Dolor de mano:2|Dificultad de concentración:1,Trastorno de ansiedad|Asma bronquial|Dislipidemia,Escitalopram|Simvastatina,respiratorias
+36,M,A+,60.3,170,Dolor de tobillo:3|Hinchazón de tobillo:1|Erupción cutánea:2|Convulsiones:1,Esguince|Fractura,,pie_tobillo
+11,F,A-,56.7,152,Diarrea:2|Vómitos:3|Dolor abdominal:2,Gastroenteritis aguda,Loperamida,infeccion_gi
+28,F,O+,86.5,168,Acidez:2|Dolor abdominal:3|Distensión abdominal:3|Estreñimiento:1|Pérdida de apetito:1|Tristeza persistente:2|Picazón:1,Fractura|Gastritis,Pantoprazol|Paracetamol,gastro
+68,F,O+,75.2,170,Ingesta de sustancia tóxica:2|Pupilas alteradas:1|Contacto con químicos:3,Intoxicación,,intoxicaciones
+44,M,O+,90.1,176,Picazón:2|Piel seca:3|Erupción cutánea:2|Enrojecimiento de la piel:1|Convulsiones:2|Ingesta de sustancia tóxica:1,Eccema|Reflujo gastroesofágico,Calcipotriol|Cetirizina|Hidrocortisona crema|Pantoprazol,eccema
+4,M,A+,51.9,161,Picazón:1|Piel seca:1|Erupción cutánea:3|Enrojecimiento de la piel:3,Eccema,,eccema
+1,M,O+,68.6,175,Tos:2|Disnea:1|Sibilancias:2|Expectoración:1,,,respiratorias
+36,F,O+,57.7,153,Lesiones con descamación:2,Psoriasis,Betametasona crema|Paracetamol|Tacrolimus,psoriasis
+38,M,A+,84.8,175,Acidez:3|Distensión abdominal:2|Sangre en heces:3,Asma bronquial,Pantoprazol,gastro
+25,M,A+,97.1,169,Aumento de peso:1|Disnea:3|Sudoración excesiva:1|Fatiga:1,Dislipidemia,Atorvastatina,obesidad|sindrome_metabolico
+43,F,A+,86.2,164,Dolor de muñeca:2|Dolor de mano:2|Dolor de antebrazo:2|Entumecimiento de mano:2|Traumatismo:1,Fractura,,mano_muneca
+44,F,O+,56.4,160,Dolor persistente:3|Dolor muscular generalizado:1,Dolor crónico,Paracetamol|Tramadol,dolor_cronico
+65,M,O-,66.3,172,Fatiga persistente:2|Pérdida de olfato:3|Palpitaciones:3|Dolor irradiado a pierna:2|Dolor lumbar:1,Antecedente de COVID-19,Prednisona,post_covid
+67,F,O+,73.0,170,Dolor persistente:3|Insomnio:2|Dolor irradiado a pierna:3,Dolor crónico,Gabapentina,dolor_cronico|columna
+35,M,A+,89.0,167,Dolor de tobillo:2|Traumatismo:2,,Diclofenaco|Paracetamol,pie_tobillo
+41,F,O+,52.3,152,Dolor de pie:2|Hinchazón de tobillo:2|Limitación de movimiento:2|Traumatismo:2|Sudoración excesiva:2|Dolor de garganta:1,Fractura,,pie_tobillo
+50,F,AB+,50.1,163,Manchas blancas en la piel:3,Vitiligo,,vitiligo
+42,F,AB-,77.9,158,Micción frecuente:3|Hormigueo en extremidades:2|Fatiga:2|Mareo:2|Ampollas:1,Diabetes mellitus|Hipertensión arterial,Atorvastatina|Furosemida|Glibenclamida|Losartán,diabetes|hipertension
+21,F,O+,53.6,151,Granos o espinillas:2|Enrojecimiento de la piel:1|Picazón:2|Contacto con químicos:1,Acné vulgar|Dislipidemia,Adapaleno|Atorvastatina,acne
+1,M,A+,78.5,166,Diarrea:3|Dolor abdominal:3|Fiebre:3|Deshidratación:3|Acidez:1|Contacto con químicos:1,Dislipidemia|Eccema|Gastroenteritis aguda,Azitromicina|Simvastatina,infeccion_gi
+23,M,O+,87.8,172,Acidez:2|Dolor de muñeca:1,Trastorno de ansiedad|Fractura,Metilfenidato|Paracetamol|Ranitidina,gastro
+20,F,A+,73.7,168,Dolor de muñeca:2|Dolor de antebrazo:2|Limitación de movimiento:3,Lumbalgia,Diclofenaco,mano_muneca
+62,F,O+,92.0,162,Dolor lumbar:2|Dolor de espalda:2,Fractura,,columna
+35,F,O+,70.9,161,Ingesta de sustancia tóxica:3|Vómitos:3|Náuseas:2|Salivación excesiva:1|Contacto con químicos:3,Fractura|Intoxicación,Carbón activado|Naproxeno|Paracetamol,intoxicaciones
+28,F,O+,95.1,179,Aumento de peso:3|Fatiga:1|Acidez:2,Obesidad,Paracetamol,obesidad
+62,F,O+,76.7,166,Fatiga:2|Aumento de peso:3|Sed excesiva:2|Acidez:1,Hipertensión arterial|Obesidad|Síndrome metabólico,Furosemida|Losartán,sindrome_metabolico|diabetes|hipertension|obesidad
+22,F,A+,38.6,158,Sibilancias:3|Expectoración:2|Opresión torácica:1|Dolor de garganta:2,Asma bronquial,Budesonida|Metronidazol,respiratorias
+45,M,O+,103.1,173,Mareo:1|Disnea:1|Limitación de movimiento:2,Hipertensión arterial|Infección respiratoria aguda|Obesidad|Síndrome metabólico,Losartán|Paracetamol|Simvastatina,obesidad|sindrome_metabolico|hipertension
+47,M,O+,84.1,171,Dolor de muñeca:3|Dolor de antebrazo:1|Traumatismo:2|Confusión:2,Síndrome del túnel carpiano,Naproxeno,mano_muneca
+51,M,O+,81.5,170,Dolor persistente:3|Fatiga:1|Deshidratación:2|Fiebre:1,Dolor crónico|Psoriasis,,dolor_cronico
+30,M,O+,76.7,171,Ansiedad:1|Cambios de conducta:2|Dolor de tobillo:1|Disminución de orina:1,Trastorno de ansiedad,Escitalopram,neuropsico
+36,F,A+,43.9,153,Lesiones con descamación:3|Picazón:3|Enrojecimiento de la piel:2,Psoriasis,Calcipotriol|Hidrocortisona crema|Paracetamol,psoriasis
+43,F,A+,69.4,164,Dolor persistente:3|Insomnio:2|Fatiga:3|Entumecimiento de mano:1,Dolor crónico|Síndrome del túnel carpiano,Paracetamol,dolor_cronico
+34,F,O+,81.2,158,Lesiones con descamación:3|Picazón:3|Enrojecimiento de la piel:2|Rigidez articular:2|Hinchazón de tobillo:2|Ansiedad:1,Psoriasis,Betametasona crema|Metotrexato,psoriasis
+30,M,O-,63.9,166,Dolor de tobillo:3|Dolor de pie:3|Hinchazón de tobillo:3|Limitación de movimiento:3|Traumatismo:3,Dislipidemia|Esguince|Fractura|Reflujo gastroesofágico,Paracetamol,pie_tobillo
+55,M,O+,68.5,167,Acidez:1|Dolor abdominal:2|Distensión abdominal:2|Piel seca:2|Confusión:1,Gastritis|Reflujo gastroesofágico,Omeprazol|Paracetamol,gastro
+12,F,A+,54.5,142,Picazón:2,Fractura|Reflujo gastroesofágico,Cetirizina|Clobetasol|Naproxeno|Omeprazol|Tacrolimus,eccema
+21,F,O+,104.1,166,Erupción cutánea:2|Picazón:1|Enrojecimiento de la piel:3|Dolor de antebrazo:2|Micción frecuente:2,Dermatitis,Cetirizina|Hidrocortisona crema,dermatitis
+74,F,O+,54.7,160,Hinchazón de piernas:1|Disminución de orina:3|Fatiga:2,Enfermedad renal crónica|Fractura|Reflujo gastroesofágico,Atenolol|Hidroclorotiazida|Ibuprofeno,renal
+24,F,A+,132.0,176,Aumento de peso:2|Fatiga:2|Sed excesiva:1|Manchas blancas en la piel:2,Fractura|Reflujo gastroesofágico,Naproxeno,obesidad
+5,M,A+,62.3,171,Granos o espinillas:1|Enrojecimiento de la piel:1|Piel seca:1,Acné vulgar,Isotretinoína|Paracetamol,acne
+50,M,O+,80.0,178,Insomnio:1|Cambios de conducta:1,,Escitalopram,neuropsico
+19,M,O+,61.8,162,Manchas blancas en la piel:2,Vitiligo,Clobetasol|Metotrexato,vitiligo
+32,F,A+,52.6,156,Manchas blancas en la piel:1,Trastorno de ansiedad|Vitiligo,Metilfenidato,vitiligo
+56,M,O+,86.8,173,Diarrea:3|Náuseas:3|Dolor abdominal:3|Fiebre:1,Dislipidemia|Gastroenteritis aguda,Paracetamol,infeccion_gi
+62,F,A+,90.7,165,Fatiga:2,Dislipidemia|Obesidad|Síndrome metabólico,Losartán|Simvastatina,sindrome_metabolico|obesidad
+35,F,O+,62.6,166,Picazón:3|Erupción cutánea:1,Eccema,Hidrocortisona crema|Paracetamol,eccema
+52,M,O+,56.2,165,Diarrea:2|Vómitos:2|Náuseas:1,Gastroenteritis aguda,Amoxicilina|Loperamida,infeccion_gi
+56,M,O-,90.7,166,Orina espumosa:3|Hinchazón de piernas:2|Fatiga:2|Dolor de cabeza:1|Estreñimiento:1|Dolor persistente:1,Enfermedad renal crónica|Hipertensión arterial,Captopril|Furosemida|Paracetamol,renal|hipertension
+25,F,A+,66.4,164,Tos:2|Disnea:3|Sibilancias:3|Fatiga persistente:3,Antecedente de COVID-19|Fractura|Infección respiratoria aguda,Budesonida|Salbutamol,respiratorias|post_covid
+42,M,O+,60.8,170,Picazón:3|Piel seca:2|Erupción cutánea:2|Enrojecimiento de la piel:3|Ampollas:1,Eccema,Clobetasol|Loratadina|Paracetamol,eccema
+70,M,O+,107.2,177,Aumento de peso:1|Dolor de mano:1|Dolor irradiado a pierna:2,Fractura|Obesidad|Síndrome metabólico,Naproxeno,obesidad
+49,F,A+,74.9,156,Acidez:2|Dolor abdominal:3|Distensión abdominal:1|Vómitos:2,Gastritis|Reflujo gastroesofágico,Pantoprazol,gastro|infeccion_gi
+43,M,A+,67.7,163,Picazón:3,Eccema,Betametasona crema,eccema|dermatitis
+40,M,A-,91.1,174,Fatiga persistente:1|Tos:1|Niebla mental:2,Trastorno de ansiedad|Antecedente de COVID-19|Fractura,Ibuprofeno|Metilfenidato,post_covid
+43,F,A+,46.1,156,Dolor persistente:2|Insomnio:3,Dolor crónico|Fractura|Reflujo gastroesofágico,Diclofenaco|Naproxeno|Pantoprazol|Paracetamol|Pregabalina,dolor_cronico
+66,F,O+,99.1,170,Dolor persistente:2|Hambre excesiva:2,Dolor crónico,Paracetamol|Pregabalina,dolor_cronico
+40,M,O-,101.6,176,Dolor de cabeza:1|Mareo:3|Sudoración excesiva:2,Dislipidemia|Hipertensión arterial,Hidroclorotiazida,hipertension|obesidad
+31,M,O+,62.9,171,Sibilancias:2|Expectoración:2|Opresión torácica:3|Fiebre:1,Asma bronquial,Ipratropio,respiratorias
+42,M,A-,104.1,181,Sed excesiva:3|Micción frecuente:2|Pérdida de peso:2|Náuseas:1,Diabetes mellitus|EPOC,,diabetes
+17,F,A+,60.9,174,Granos o espinillas:1,Acné vulgar,Isotretinoína,acne
+36,M,A+,104.1,185,Diarrea:2|Vómitos:1|Náuseas:2|Fiebre:1|Deshidratación:3|Traumatismo:2,,Ciprofloxacino|Paracetamol,infeccion_gi
+50,F,O+,62.8,162,Lesiones con descamación:3|Enrojecimiento de la piel:3|Traumatismo:1,,Metotrexato,psoriasis
+48,F,A+,69.8,161,Dolor persistente:3|Dolor muscular generalizado:2|Insomnio:1|Fatiga:3,Dolor crónico|Reflujo gastroesofágico,Ciclobenzaprina|Omeprazol|Pregabalina,dolor_cronico|columna
+44,M,O+,63.5,168,Fatiga persistente:3|Tos:2|Dolor muscular generalizado:1|Náuseas:2|Ampollas:1,Antecedente de COVID-19,Paracetamol,post_covid
+40,M,A+,103.3,164,Visión borrosa:2|Fatiga:1|Aumento de peso:3|Disnea:3|Sudoración excesiva:2|Limitación de movimiento:2,Trastorno de ansiedad|Dislipidemia|Hipertensión arterial|Obesidad|Reflujo gastroesofágico,Clonazepam,hipertension|obesidad
+11,M,O+,74.5,171,Tos:2|Disnea:3|Estreñimiento:1|Sangre en heces:2,Fractura,Budesonida|Diclofenaco|Ipratropio|Metronidazol|Paracetamol,respiratorias
+39,M,A+,65.0,177,Ansiedad:2|Insomnio:3|Irritabilidad:2|Dolor abdominal:1,Trastorno de ansiedad|Trastorno depresivo|Fractura,Naproxeno,neuropsico
+50,M,O+,96.2,173,Hinchazón de piernas:2|Disminución de orina:1|Náuseas:3|Pérdida de apetito:2,Enfermedad renal crónica,Hidroclorotiazida|Paracetamol,renal
+72,M,B+,83.6,179,Disminución de orina:3|Sangre en orina:2|Fatiga:2|Pérdida de apetito:1|Micción frecuente:3,Diabetes mellitus|Enfermedad renal crónica|Fractura,Captopril|Paracetamol,renal|diabetes
+10,M,A-,76.0,174,Diarrea:2|Dolor abdominal:3|Fiebre:3|Dolor de garganta:1|Orina espumosa:1,Gastroenteritis aguda,Azitromicina|Paracetamol|Sales de rehidratación oral,infeccion_gi
+74,F,A-,57.9,149,Sed excesiva:2|Micción frecuente:2|Visión borrosa:3|Fatiga persistente:1|Pérdida de apetito:1,Hipertensión arterial,Glibenclamida|Losartán,diabetes|hipertension
+18,M,O-,71.2,164,Ingesta de sustancia tóxica:2|Vómitos:2|Náuseas:2|Confusión:1|Salivación excesiva:2|Dolor abdominal:3|Hormigueo en extremidades:1|Sed excesiva:2,Dislipidemia|Fractura|Intoxicación,Diclofenaco|Naloxona|Simvastatina,intoxicaciones
+30,F,O-,43.0,144,Granos o espinillas:2|Picazón:1,Acné vulgar,Peróxido de benzoilo,acne
+47,F,O+,68.9,171,Dolor de cabeza:3|Palpitaciones:2|Niebla mental:1|Fatiga:1,Trastorno de ansiedad|Reflujo gastroesofágico,Furosemida|Losartán|Metilfenidato,hipertension
+37,M,O+,44.1,170,Erupción cutánea:2|Picazón:1|Enrojecimiento de la piel:3|Ampollas:3|Dolor muscular generalizado:2|Fiebre:1,Dermatitis|Reflujo gastroesofágico,Cetirizina|Hidrocortisona crema|Pantoprazol|Paracetamol,dermatitis
+25,M,O+,75.8,170,Granos o espinillas:2|Enrojecimiento de la piel:1,Acné vulgar|Trastorno de ansiedad|Fractura,Escitalopram|Naproxeno,acne
+50,M,O+,89.8,170,Fatiga persistente:3|Disnea:2,Antecedente de COVID-19|Hipertensión arterial,Budesonida,post_covid
+46,M,O+,69.8,178,Dolor de muñeca:2|Dolor de mano:3|Entumecimiento de mano:1|Limitación de movimiento:2|Pérdida de apetito:1,,Naproxeno|Paracetamol,mano_muneca
+43,M,O+,85.5,169,Erupción cutánea:1|Piel seca:1|Dolor de tobillo:1|Enrojecimiento de la piel:1,Dermatitis|Dislipidemia|Fractura,Atorvastatina|Cetirizina|Ibuprofeno,dermatitis
+46,F,A+,40.8,165,Dolor abdominal:3|Distensión abdominal:2|Visión borrosa:1,Gastritis|Gastroenteritis aguda|Reflujo gastroesofágico,Ranitidina,gastro|infeccion_gi
+53,F,A+,84.2,153,Dolor lumbar:3|Dolor de espalda:3|Dolor de cuello:1|Rigidez articular:1|Contacto con químicos:2,,Ciclobenzaprina|Ibuprofeno,columna

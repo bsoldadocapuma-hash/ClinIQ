@@ -1,0 +1,19 @@
+MOCKAP - PROYECTO TALLER 1
+
+
+- URL ICONO CLINIQ
+https://lucide.dev/icons/square-activity
+
+
+cd cliniq_frontend
+npm run dev
+
+cd cliniq_backend
+npm run start:dev
+
+
+
+cd cliniq-ia
+.\venv\Scripts\activate
+python app.py
+
